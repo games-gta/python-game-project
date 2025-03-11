@@ -1,3 +1,3 @@
-#python-game-project
+python-game-project
 <br>
-#This is a slotmachine game bae project for an college.
+This is a slotmachine game bae project for an college.
